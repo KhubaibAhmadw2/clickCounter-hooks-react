@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import "./style.css";
 
 const UseState = () => {
@@ -31,3 +31,4 @@ const UseState = () => {
 };
 
 export default UseState;
+ */
